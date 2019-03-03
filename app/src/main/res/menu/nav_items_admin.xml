@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/vagas"
+        android:id="@+id/nav_vagas"
+        android:icon="@drawable/ic_round_work_24px"/>
+    <item android:title="@string/solicita_es"
+        android:id="@+id/nav_solicitacoes"
+        android:icon="@drawable/ic_round_email_24px_solicita"/>
+    <item android:title="@string/perfil"
+        android:id="@+id/nav_perfil"
+        android:icon="@drawable/ic_round_person_24px"/>
+</menu>

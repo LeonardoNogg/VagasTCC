@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.nogg.vagastcc">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".Activity.SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".Activity.LoginActivity"></activity>
+        <activity android:name=".Activity.CadAlunosActivity" />
+        <activity android:name=".Activity.VagasActivity" />
+        <activity android:name=".Activity.VerificacaoActivity" />
+        <activity android:name=".Activity.VagasAdminActivity" />
+        <activity android:name=".Activity.CadVagasActivity" />
+        <activity android:name=".Activity.CadAdminActivity" />
+        <activity android:name=".Activity.DescricaoActivity" />
+        <activity android:name=".Activity.DescricaoAdminActivity" />
+        <activity android:name=".Activity.EditarAlunosActivity" />
+        <activity android:name=".Activity.EditarVagasActivity" />
+        <activity android:name=".Activity.CadCursosActivity" />
+        <activity android:name=".Activity.CadTurmasActivity" />
+        <activity android:name=".Activity.CadastrosActivity" />
+        <activity android:name=".Activity.SolicitacaoDescActivity" />
+    </application>
+
+</manifest>

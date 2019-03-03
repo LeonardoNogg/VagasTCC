@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "380828100796",
+    "firebase_url": "https://vagastcc-9f276.firebaseio.com",
+    "project_id": "vagastcc-9f276",
+    "storage_bucket": "vagastcc-9f276.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:380828100796:android:b114fca0cca3aa8d",
+        "android_client_info": {
+          "package_name": "com.example.nogg.vagastcc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "380828100796-oov0g8r1jlpltv1t6bqrlumhdkl0lehp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nogg.vagastcc",
+            "certificate_hash": "abad860cfc214c582f6c4c8b7db5dfc40cfc29bd"
+          }
+        },
+        {
+          "client_id": "380828100796-ahqfsp33dh37c2jpium6l9m4101obpqb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjLMBw0S5nFla11kvLVIHTSnBrNvt9x7M"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "380828100796-ahqfsp33dh37c2jpium6l9m4101obpqb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
